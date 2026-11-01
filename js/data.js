@@ -70,7 +70,7 @@ window.ARSIP_DATA = {
       sources: ["Kumpulan Cerita Rakyat Nusantara (PDF), hlm. 4 — Sangkuriang, legenda Jawa Barat.", "Versi tutur di berbagai daerah dapat berbeda; narasumber dan izin perlu dicatat sebelum publikasi."]
     },
     {
-      id: "timun-mas", title: "Timun Mas", type: "Dongeng", region: "Jawa Tengah", version: "Versi ringkas yang dikenal di Jawa", minutes: 4,
+      id: "timun-mas", title: "Timun Mas", type: "Dongeng", region: "Jawa Tengah", version: "Versi ringkas yang dikenal di Jawa", minutes: 4, image: "foto_cerita/timunmas.jpeg",
       summary: "Gadis yang lahir dari timun emas melarikan diri dari raksasa dengan empat bekal ajaib.",
       chapters: [
         "Dahulu hiduplah seorang janda tua bernama Mbok Sirni yang sangat ingin memiliki anak. Suatu hari, ia bertemu raksasa yang memberinya biji timun. Raksasa itu berpesan agar biji tersebut ditanam, dan bila sudah dewasa, anak yang lahir akan diserahkan kepadanya untuk dimakan.",
